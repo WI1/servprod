@@ -197,8 +197,9 @@
 			<?php if (!empty($footer)): print $footer; endif; ?>
 			<div id="sponsoren">
 				<a href="http://www.bmbf.de/" id="sponsor1"></a>
-				<a href="http://www.europa.eu/" id="sponsor3"></a>
 				<a href="http://www.dlr.de/pt/" id="sponsor4"></a>
+				<a href="http://www.service-productivity.de/" id="sponsor3"></a>
+				
 				<a href="http://www.hhl.de/" id="sponsor5"></a>
 				<a href="http://clicresearch.de/" id="sponsor6"></a>
 			</div>
