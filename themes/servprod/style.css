@@ -275,6 +275,7 @@ display:none;
 
 #sponsoren #sponsor3 {
 	background-position: -460px -164px;
+	margin: 0 6em 0 0;
 }
 
 #sponsoren #sponsor3:hover {
@@ -282,7 +283,7 @@ display:none;
 }
 
 #sponsoren #sponsor4 {
-	background-position: -710px -164px;
+	background-position: -710px -165px;
 }
 
 #sponsoren #sponsor4:hover {
